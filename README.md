@@ -1,2 +1,2 @@
 # Extract-Combo-From-Logs
-Extracts email credentials from logs.
+Extracts email combo from logs.
